@@ -3,7 +3,7 @@
   "displayName": "Lemonade Theme",
   "description": "A modern theme based on Atom Material with a unique color palette",
   "version": "0.0.1",
-  "publisher": "lemonade",
+  "publisher": "dennerrondinely",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -27,5 +27,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dennerrondinely/lemonade.git"
-  }
+  },
+  "icon": "images/icon.png"
 } 
