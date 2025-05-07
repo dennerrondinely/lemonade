@@ -94,4 +94,4 @@ Pull requests are welcome! If you have suggestions for improvements, new languag
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details. 
+MIT License. See the [LICENSE](LICENSE) file for details. 
