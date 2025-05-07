@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+    <rect width="300" height="100" fill="#1F3A3D" />
+    <circle cx="40" cy="50" r="30" fill="#EBCB8B" />
+    <circle cx="40" cy="50" r="25" fill="#2E8B57" />
+    <circle cx="40" cy="50" r="20" fill="#EBCB8B" />
+    <text x="90" y="60" font-family="Arial" font-size="40" fill="#D8DEE9">Lemonade</text>
+    <text x="90" y="80" font-family="Arial" font-size="20" fill="#A3BE8C">Theme</text>
+</svg>

@@ -1,0 +1,35 @@
+{
+  "name": "lemonade-theme",
+  "displayName": "Lemonade Theme",
+  "description": "A modern theme based on Atom Material with a unique color palette",
+  "version": "0.0.1",
+  "publisher": "lemonade",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lemonade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lemonade-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run package",
+    "package": "vsce package",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@types/vscode": "^1.60.0",
+    "@vscode/vsce": "^2.15.0",
+    "typescript": "^4.5.4"
+  }
+} 
